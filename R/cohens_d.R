@@ -20,7 +20,7 @@ NULL
 #'  If a paired samples t-test was requested, then effect size desired is based
 #'  on the standard deviation of the differences.
 #'
-#'  It can also returns confidence intervals by bootstap.
+#'  It can also returns confidence intervals by bootstrap.
 #'
 #'@inheritParams wilcox_effsize
 #'@param data a data.frame containing the variables in the formula.
